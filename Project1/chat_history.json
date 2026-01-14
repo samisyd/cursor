@@ -1,0 +1,32 @@
+[
+  {
+    "role": "user",
+    "content": "Hi How are you",
+    "timestamp": "2026-01-14 13:32:30"
+  },
+  {
+    "role": "assistant",
+    "content": "I'm doing well, thank you for asking!\n\nHow are you today?",
+    "timestamp": "2026-01-14 13:32:33"
+  },
+  {
+    "role": "user",
+    "content": "I am good. ",
+    "timestamp": "2026-01-14 13:32:52"
+  },
+  {
+    "role": "assistant",
+    "content": "That's great to hear! I'm glad you're doing well.\n\nHow can I help you today, or what's on your mind?",
+    "timestamp": "2026-01-14 13:32:57"
+  },
+  {
+    "role": "user",
+    "content": "What is Generative AI, Can you tell me in short in 2 or 3 points as a list",
+    "timestamp": "2026-01-14 13:33:53"
+  },
+  {
+    "role": "assistant",
+    "content": "Generative AI is a type of artificial intelligence that can:\n\n1.  **Create New Content:** It generates original, novel outputs like text, images, audio, or code, rather than just analyzing or classifying existing data.\n2.  **Learn from Data:** It does this by learning patterns, styles, and structures from vast amounts of existing data and then using that knowledge to produce unique outputs.",
+    "timestamp": "2026-01-14 13:33:59"
+  }
+]
